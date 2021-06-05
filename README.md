@@ -2,6 +2,7 @@
 Parametric Electronics Enclosure made in FreeCAD
 
 This enclosure serves as a base to most of the electronics enclosures I create.
+(Requires FreeCAD 0.19 & Fasteners Workbench addon for tapped holes)
 
 ![](Images/Enc01.png)
 *Enclosure Base and Lid*
