@@ -1,3 +1,6 @@
+> [!NOTE]
+> This model is now archived: A newer, more robust and feature rich replacement can be found [here](https://gitlab.com/freecaddemos/parametricenclosure2025).
+
 # Parametric Enclosure Base
 Parametric Electronics Enclosure made in FreeCAD
 
